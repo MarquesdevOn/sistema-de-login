@@ -1,10 +1,4 @@
-# sistema-de-login
-
-Sitema de login utilizando PHP e Mysql
-
-## Conexão com o banco de dados
-
- <?php
+<?php
 $hostname = "localhost";
 $bancodedados = "forms_integration";
 $usuario = "root";
